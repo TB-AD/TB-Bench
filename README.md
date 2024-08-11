@@ -1,7 +1,7 @@
 <br />
 <div align="center">
   <a href="">
-    <img src="images/preview_image.pdf" alt="Logo" width="720">
+    <img src="preview_image.pdf" alt="Logo" width="720">
   </a>
 
   <h3 align="center"></h3>
