@@ -1,7 +1,7 @@
 <br />
 <div align="center">
   <a href="">
-    <img src="images/example_AD_tasks.jpg" alt="Logo" width="360">
+    <img src="images/example_main_image.jpg" alt="Logo" width="360">
   </a>
 
   <h3 align="center"></h3>
