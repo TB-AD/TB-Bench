@@ -11,8 +11,7 @@
     <br />
     <a href="https://arxiv.org/abs/2501.05733"><strong>Paper</strong></a> <strong>|</strong>
     <a href="https://huggingface.co/datasets/DHPR/TB-Bench-box"><strong>Benchmark Dataset</strong></a> <strong>|</strong>
-    <a href=""><strong>Training Dataset</strong></a> <strong>|</strong>
-    <a href=""><strong>Inference Demo</strong></a>
+    <a href="https://huggingface.co/datasets/DHPR/TB-100k-box"><strong>Training Dataset</strong></a> <strong>|</strong>
     <br />
   </p>
 </div>
